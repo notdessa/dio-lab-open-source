@@ -15,6 +15,9 @@ Oie, me chamo Andressa. Trabalho com linguagens de programação desde 2013, mas
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Roadmap
+[![roadmap.sh](https://roadmap.sh/card/tall/6802c4f76057cdb1a280ed4e?variant=dark&roadmaps=data-analyst)](https://roadmap.sh)
+
 ## GitHub Stats
 ![Andressa's GitHub stats](https://github-readme-stats.vercel.app/api?username=notdessa&theme=onedark&show_icons=true)
 
